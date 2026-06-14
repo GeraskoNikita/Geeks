@@ -1,0 +1,3 @@
+# Project exclude paths
+/projects/.venv/
+/projects/.gitignore
